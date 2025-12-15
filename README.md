@@ -18,12 +18,10 @@
 
 ## 📞 Connect With Me
 
-<div align="center">
-  [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100009012838085)
-  [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](😃)
-  [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://youtube.com/@rdx-bot-zone?si=07glyrc8s-lSIkK8)
-  [![Whatsapp](https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/qr/Q65AI7L4ZOBFO1)
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100009012838085)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](😃)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://youtube.com/@rdx-bot-zone?si=07glyrc8s-lSIkK8)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/qr/Q65AI7L4ZOBFO1)
 
 ## 📖 Table of Contents
 - [About](#-about)
